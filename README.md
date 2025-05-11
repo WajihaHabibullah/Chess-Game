@@ -1,5 +1,5 @@
 ♟️ C++ Chess Game
-This is a console-based Chess Game developed in C++ using Object-Oriented Programming (OOP) principles as a course project. The game allows two players to play standard chess in a turn-based manner.
+This is a GUI Chess Game developed in C++ using Object-Oriented Programming (OOP) principles as a course project. The game allows two players to play standard chess in a turn-based manner.
 
 Team Members:
 Wajiha -> Leader
@@ -67,7 +67,5 @@ Operator Overloading: Used for comparing board positions and possibly printing b
 Implement check and checkmate detection
 
 Add castling, en passant, and pawn promotion
-
-Add GUI using a library like SFML or Qt
 
 Save/load game feature
