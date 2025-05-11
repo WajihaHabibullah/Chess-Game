@@ -52,7 +52,7 @@ g++ main.cpp -o ChessGame
 Run the game:
 ./ChessGame
 
-Players take turns entering the coordinates for moving their pieces (e.g., e2 to e4). The game validates each move and enforces the standard rules of chess.
+Players take turns entering the coordinates for moving their pieces. The game validates each move and enforces the standard rules of chess.
 
 ✅ OOP Concepts Used
 Inheritance: All chess pieces inherit from a base Piece class.
